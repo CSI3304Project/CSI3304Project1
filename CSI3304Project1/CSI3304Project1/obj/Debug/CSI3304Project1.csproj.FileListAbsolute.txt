@@ -1,0 +1,11 @@
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\bin\Debug\CSI3304Project1.exe.config
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\bin\Debug\CSI3304Project1.exe
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\bin\Debug\CSI3304Project1.pdb
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.csprojResolveAssemblyReference.cache
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.Properties.Resources.resources
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.csproj.GenerateResource.Cache
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.exe
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.pdb
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.HomeAdmin.resources
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.Login.resources
+c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.AddUser.resources
