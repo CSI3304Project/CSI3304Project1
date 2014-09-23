@@ -9,3 +9,14 @@ c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Pr
 c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.HomeAdmin.resources
 c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.Login.resources
 c:\users\cameron\documents\visual studio 2012\Projects\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.AddUser.resources
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\bin\Debug\CSI3304Project1.exe.config
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.exe
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.pdb
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\bin\Debug\CSI3304Project1.exe
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\bin\Debug\CSI3304Project1.pdb
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.HomeAdmin.resources
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.Login.resources
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.AddUser.resources
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.Properties.Resources.resources
+C:\Users\Aaron\Documents\GitHub\CSI3304Project1\CSI3304Project1\CSI3304Project1\obj\Debug\CSI3304Project1.csproj.GenerateResource.Cache

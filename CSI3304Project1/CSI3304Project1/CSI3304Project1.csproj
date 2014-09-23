@@ -50,6 +50,7 @@
     <Compile Include="HomeAdmin.Designer.cs">
       <DependentUpon>HomeAdmin.cs</DependentUpon>
     </Compile>
+    <Compile Include="UploadedImage.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +65,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
     <EmbeddedResource Include="HomeAdmin.resx">
       <DependentUpon>HomeAdmin.cs</DependentUpon>
     </EmbeddedResource>
