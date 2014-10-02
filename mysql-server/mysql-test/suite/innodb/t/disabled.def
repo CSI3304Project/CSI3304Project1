@@ -1,0 +1,12 @@
+##############################################################################
+#
+#  List the test cases that are to be disabled temporarily.
+#
+#  Separate the test case name and the comment with ':'.
+#
+#    <testcasename> : BUG#<xxxx> <date disabled> <disabler> <comment>
+#
+#  Do not use any TAB characters for whitespace.
+#
+##############################################################################
+innodb_mysql : BUG#18449085 disabled this on 2014-04-01 due to failing too often
